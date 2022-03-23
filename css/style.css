@@ -362,7 +362,7 @@ body {
     }
 
     .wrapper {
-        width: 600px;
+        width: 100%;
     }
 
     .footer_section_2_column {
@@ -387,7 +387,7 @@ body {
     }
 
     .wrapper {
-        width: 360px;
+        width: 100%;
         padding: 0 5px;
     }
 
@@ -401,6 +401,7 @@ body {
 
     .footer_section_3_column {
         padding-left: 0;
+        grid-column: span 6;
     }
 
     .footer_section_4_item {
