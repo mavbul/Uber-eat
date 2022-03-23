@@ -387,7 +387,8 @@ body {
     }
 
     .wrapper {
-        width: 500px;
+        width: 360px;
+        padding: 0 5px;
     }
 
     .footer_section_2_column {
